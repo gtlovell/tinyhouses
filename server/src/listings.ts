@@ -13,7 +13,7 @@ interface Listing {
 export const listings: Listing[] = [
   {
     id: '001',
-    title: 'Clean and fully furnished apartment. 5 min away from CN Tower',
+    title: 'Fully furnished apartment',
     image:
       'https://res.cloudinary.com/tiny-house/image/upload/v1560641352/mock/Toronto/toronto-listing-1_exv0tf.jpg',
     address: '3210 Scotchmere Dr W, Toronto, ON, CA',
@@ -37,7 +37,7 @@ export const listings: Listing[] = [
   },
   {
     id: '003',
-    title: 'Single bedroom located in the heart of downtown San Fransisco',
+    title: 'Single bedroom located in downtown San Fransisco',
     image:
       'https://res.cloudinary.com/tiny-house/image/upload/v1560646219/mock/San%20Fransisco/san-fransisco-listing-1_qzntl4.jpg',
     address: '200 Sunnyside Rd, San Fransisco, California',
